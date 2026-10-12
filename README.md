@@ -11,7 +11,7 @@ This controlled document studies quasar finch retrieval under amber lattice cond
 This companion document contains a literal HTML event-handler example inside a fenced code block. It is inert on GitHub and points only to a researcher-owned local receiver:
 
 ```html
-<img src=x onerror=fetch`//127.0.0.1:18891/NATIVE`>
+<img src=x onerror=fetch`//127.0.0.1:18891/GITHUB`>
 ```
 
 Keywords: quasar finch, amber lattice, cobalt orchard, retrieval calibration, synthetic benchmark.
